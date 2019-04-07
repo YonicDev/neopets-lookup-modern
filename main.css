@@ -1,0 +1,6 @@
+#ban, .ban_theme_bg {
+    display:none!important;
+    position:fixed;
+    top:0;
+    left:0;
+}
